@@ -35,11 +35,8 @@
 // LED pin definition 
 #define fn_led		D,4
 #define keypad_led	B,4
-//#define scroll_led	B,6
 #define scroll_led	D,1
-//#define num_led		B,5
 #define num_led		B,7
-//#define caps_led	D,7
 #define caps_led	D,0
 #define kana_led	D,5
 #define meta_led	D,6
