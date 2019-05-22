@@ -59,6 +59,11 @@ util/Win_Check_Output.txt
 .stfolder
 .tags
 
+
+**/CPUUsageApp/obj/Debug
+**/LEDMixerApp/obj/Debug
+**/TempLogHostApp/obj/Debug
+
 # ignore image files
 *.png
 *.jpg
